@@ -57,9 +57,19 @@ During execution, the program:
 
 ## Example Output
 
+### ISL to text
+
 ![Example Output](./images/Working.png)
 ![Example Output](./images/Working1.png)
 ![Example Output](./images/Working2.png)
 ![Example Output](./images/Working3.png)
 ![Example Output](./images/Working4.png)
 ![Example Output](./images/Working5.png)
+
+### Text to ISL
+
+![Example Output](./images/text_to_isl.gif)
+
+### Speech Recognition
+
+![Example Output](./images/speech_recog.gif)
